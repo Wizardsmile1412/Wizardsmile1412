@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pawarit Sripayom (Tor+)
 ========================================================================================================================================
 
-Junior Full Stack Developer
+Full Stack Developer
 ---------------------------
 
 Junior full-stack developer who enjoys overcoming new challenges and growing from them. Passionate about expanding my skills and continuously improving my craft.
