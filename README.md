@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 ---------------------------
 
-Junior full-stack developer who enjoys overcoming new challenges and growing from them. Passionate about expanding my skills and continuously improving my craft.
+Full-stack developer who enjoys overcoming new challenges and growing from them. Passionate about expanding my skills and continuously improving my craft.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [p.sripayom@gmail.com](mailto:p.sripayom@gmail.com)
